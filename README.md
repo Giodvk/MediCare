@@ -25,7 +25,7 @@ MediCare offers many features to help patients handle their reservations, manage
 * **Matteo Cicalese**       - *Project Manager*         - [CicaMatt](https://github.com/CicaMatt)
 * **Luca Contrasto**   - *Project Manager*         - [Lucacontr](https://github.com/Lucacontr)
 * **Gianluca Palumbo**      - *Developer*         - [gianlucapalumbo0](https://github.com/gianlucapalumbo0)
-* **Matteo Avella**      - *Developer*         - [MatteoAV02](https://github.com/MatteoAV02)
+* **Matteo Avella**      - *Developer*         - [MatteoAv](https://github.com/MatteoAv)
 * **Giovanni Casaburi**         - *Developer*         - [Giodvk](https://github.com/Giodvk)
 * **Salvatore Basilicata**       - *Developer*         - [sasibasi](https://github.com/sasibasi)
 * **Primo Vinicio Calabrese**        - *Developer*         - [PRIMOVINICIOCALABRESE](https://github.com/PRIMOVINICIOCALABRESE)
